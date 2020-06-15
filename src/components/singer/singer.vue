@@ -7,7 +7,7 @@
 <script>
     import {getSingerList} from 'api/singer'
     import listView from 'base/listview/listview'
-    const HOT_NAME = '热门1';
+    const HOT_NAME = '热门';
     const HOT_AMOUNT = 10;
 
     export default {
